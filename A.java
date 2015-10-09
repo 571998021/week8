@@ -1,4 +1,4 @@
-c class A {
+class A {
     int i = 5;
     static int k = 2;
 
